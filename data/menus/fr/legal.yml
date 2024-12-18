@@ -4,5 +4,6 @@ items:
 - title: noesya
   target: https://www.noesya.coop
   kind: url
+  new_tab: true
   children: []
 
