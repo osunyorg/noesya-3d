@@ -4,7 +4,7 @@ baseURL: https://3d.noesya.coop
 
 ## LANGUAGE
 defaultContentLanguage: fr
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 
 ## CACHE
 deployment:
