@@ -2,6 +2,11 @@
 
 baseURL: https://3d.noesya.coop
 
+## OSUNY
+osuny:
+  website:
+    id: 18bb5685-87d5-4f96-ab72-30a7bdb8852c
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
